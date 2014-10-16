@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bpk:home|Door43 (bpk)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bpk|d43-bpk repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bpk/archive/master.zip|d43-bpk.zip]]
+
+**Recent Changes**
+{{changes>ns = bpk}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bpk|Ethnologue data]]
+
